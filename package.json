@@ -1,0 +1,34 @@
+{
+  "name": "items-picker",
+  "version": "1.0.0",
+  "description": "A customizable dropdown component for React Native applications.",
+  "keywords": [
+    "react-native",
+    "dropdown",
+    "picker",
+    "component"
+  ],
+  "author": "Babjonii <youremail@example.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babjonii/items-picker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/babjonii/items-picker/issues"
+  },
+  "homepage": "https://github.com/babjonii/items-picker#readme",
+  "license": "UNLICENSED",
+  "main": "ItemsPicker.js",
+  "dependencies": {
+    "@expo/vector-icons": "^12.0.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-native": "^0.64.0"
+  },
+  "peerDependencies": {
+    "react-native": "^0.64.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
